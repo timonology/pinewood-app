@@ -1,0 +1,17 @@
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Persistence.deps.json
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Persistence.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Persistence.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.AssemblyInfo.cs
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\refint\PinewoodAssessment.Persistence.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\ref\PinewoodAssessment.Persistence.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Application.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Domain.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Application.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\bin\Debug\net6.0\PinewoodAssessment.Domain.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Persistence\obj\Debug\net6.0\PinewoodAssessment.Persistence.csproj.CopyComplete

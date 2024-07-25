@@ -1,0 +1,15 @@
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\bin\Debug\net6.0\PinewoodAssessment.Application.deps.json
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\bin\Debug\net6.0\PinewoodAssessment.Application.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\bin\Debug\net6.0\PinewoodAssessment.Application.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\bin\Debug\net6.0\PinewoodAssessment.Domain.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\bin\Debug\net6.0\PinewoodAssessment.Domain.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.AssemblyInfo.cs
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.csproj.CopyComplete
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\refint\PinewoodAssessment.Application.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\PinewoodAssessment.Application.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Application\obj\Debug\net6.0\ref\PinewoodAssessment.Application.dll

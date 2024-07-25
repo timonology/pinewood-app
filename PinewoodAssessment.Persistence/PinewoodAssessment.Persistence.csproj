@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.32" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PinewoodAssessment.Application\PinewoodAssessment.Application.csproj" />
+    <ProjectReference Include="..\PinewoodAssessment.Domain\PinewoodAssessment.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

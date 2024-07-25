@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PinewoodAssessment.Domain/1.0.0": {
+        "runtime": {
+          "PinewoodAssessment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PinewoodAssessment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

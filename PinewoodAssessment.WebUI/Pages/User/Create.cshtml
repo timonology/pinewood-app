@@ -1,0 +1,28 @@
+﻿@page
+@model PinewoodAssessment.WebUI.Pages.User.CreateModel
+@{
+}
+
+<h1>Create User</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="createUserModel.FirstName" class="control-label"></label>
+        <input asp-for="createUserModel.FirstName" class="form-control" />
+        <span asp-validation-for="createUserModel.FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="createUserModel.LastName" class="control-label"></label>
+        <input asp-for="createUserModel.LastName" class="form-control" />
+        <span asp-validation-for="createUserModel.LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="createUserModel.Email" class="control-label"></label>
+        <input asp-for="createUserModel.Email" class="form-control" />
+        <span asp-validation-for="createUserModel.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+<a asp-action="Index">Back to List</a>

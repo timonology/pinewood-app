@@ -1,0 +1,12 @@
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\bin\Debug\net6.0\PinewoodAssessment.UnitTest.deps.json
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\bin\Debug\net6.0\PinewoodAssessment.UnitTest.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\bin\Debug\net6.0\PinewoodAssessment.UnitTest.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.AssemblyInfo.cs
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\refint\PinewoodAssessment.UnitTest.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\PinewoodAssessment.UnitTest.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.UnitTest\obj\Debug\net6.0\ref\PinewoodAssessment.UnitTest.dll

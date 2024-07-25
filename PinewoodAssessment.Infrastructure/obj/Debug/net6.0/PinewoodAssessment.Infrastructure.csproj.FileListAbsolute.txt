@@ -1,0 +1,12 @@
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\bin\Debug\net6.0\PinewoodAssessment.Infrastructure.deps.json
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\bin\Debug\net6.0\PinewoodAssessment.Infrastructure.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\bin\Debug\net6.0\PinewoodAssessment.Infrastructure.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.AssemblyInfo.cs
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\refint\PinewoodAssessment.Infrastructure.dll
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\PinewoodAssessment.Infrastructure.pdb
+C:\Users\User01\source\repos\PinewoodAssessment\PinewoodAssessment.Infrastructure\obj\Debug\net6.0\ref\PinewoodAssessment.Infrastructure.dll
